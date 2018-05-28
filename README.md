@@ -1,5 +1,5 @@
 # Reservation in Cinema [January 2018]
-Web project for booking seats in cinema. Application was created during studying on last year. I update my project in a few places near the middle of 2015.
+Web project for booking seats in cinema. Application was created during studying on last year. I update my project in a few places near the middle of 2018.
 
 ## Technologies:
 1. Frontend:
