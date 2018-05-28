@@ -31,7 +31,7 @@ Web project for booking seats in cinema. Application was created during studying
 3. Set path of mongoDB (e.g. `mongod --dbpath C:\your_direction_to_project\reservation-in-cinema\data`).
 4. Create database on mongoDB: `use reservation`.
 5. Create admin account with using command: <br />
-`db.usermodels.insert( { isAdmin: true, email: "", phone: "", surname: "Smith", name: "John", password: "sha1$10eb0e25$1$bde8a0b29628ee8833c2600f30015f101711a1e5", username: "admin" } )`
+`db.usermodels.insert( { isAdmin: true, email: "ramamana@gmail.com", phone: "0775085453", surname: "kannan", name: "ramana", password: "sha1$10eb0e25$1$bde8a0b29628ee8833c2600f30015f101711a1e5", username: "admin" } )`
 6. Start Express server: `npm start`
 7. Open browser with address `localhost:3000` to see application. <br />
 To login on admin account please use `admin`for username and `password` for password.
@@ -43,6 +43,6 @@ To login on admin account please use `admin`for username and `password` for pass
 
 2) User:
 ![alt text][user_png]
-
+## admin pngs
 [admin_png]: https://raw.githubusercontent.com/palprz/reservation-in-cinema/master/markdown_img_admin.png "Logo Title Text 1"
 [user_png]: https://github.com/palprz/reservation-in-cinema/blob/master/markdown_img_user.png "Logo Title Text 2"
